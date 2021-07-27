@@ -1,0 +1,608 @@
+
+body{
+    background: #e6e6e6;
+    height: 50vh;
+}
+
+
+#heading{
+    
+    border: none;
+    background-color: #fff;
+    margin: 0 auto;
+    color: rgb(235, 120, 13);
+    max-width: 59.571428571rem;
+    overflow: hidden;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    padding: 12px 40px 0 48px;
+    margin-top: 24px;
+    margin-bottom: 28px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 50%);
+    border-radius: 20px; 
+
+}
+#main{
+    position: relative;
+    
+    border: none;
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 59.571428571rem;
+    min-height: 77vh;
+    overflow: hidden;
+    border: 0;
+    border-radius: 20px;
+    font-size: 100%;
+    padding: 10px 40px 0 40px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 50%);
+
+}
+#main_home{
+    position: relative;
+    
+    border: none;
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 59.571428571rem;
+    min-height: 80vh;
+    overflow: hidden;
+    border: 0;
+    border-radius: 20px;
+    font-size: 100%;
+    padding: 10px 40px 0 40px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 50%);
+
+}
+
+#main_projects{
+    position: relative;
+    
+    border: none;
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 59.571428571rem;
+    min-height: 170vh;
+    overflow: hidden;
+    border: 0;
+    border-radius: 20px;
+    font-size: 100%;
+    padding: 10px 40px 0 40px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 50%);
+
+}
+
+#main_stock{
+    position: relative;
+    
+    border: none;
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 59.571428571rem;
+    min-height: 200vh;
+    overflow: hidden;
+    border: 0;
+    border-radius: 20px;
+    font-size: 100%;
+    padding: 10px 40px 0 40px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 50%);
+
+}
+
+#main_resume{
+    position: relative;
+    
+    border: none;
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 59.571428571rem;
+    min-height: 102vh;
+    overflow: hidden;
+    border: 0;
+    border-radius: 20px;
+    font-size: 100%;
+    padding: 10px 40px 0 40px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 50%);
+
+}
+
+
+.but{
+    height: 42px;
+    width: 110px;
+    background: #dad8d8;
+    font-weight: bold; 
+
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin-right: 8px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 80%);
+
+
+}
+
+.associations{
+    height: 42px;
+    width: 120px;
+    font-weight: bold; 
+
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin-right: 8px;
+    background: #dad8d8;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 80%);
+
+
+
+}
+
+.but:hover,.associations:hover{
+    
+    background: black;
+    color: rgb(235, 120, 13);
+    box-shadow: 0 2px 6px black;
+
+
+}
+
+
+
+#header{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-size: 3.957142857rem;
+    color: black;
+    text-decoration: none;
+}
+
+#portfolio{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-size: 0.957142857rem;
+    color: rgb(235, 120, 13);
+    padding-bottom: 20px;
+    font-weight: bold; 
+
+
+}
+
+
+
+#content_contact{
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 6%;
+   width: 50%;
+text-align: center;
+font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+
+    }
+
+    #content_sitemap{
+        margin-left: 20px;
+        margin-top: 6%;
+        width: 50%;
+     font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+     
+         }
+
+
+.current{
+    height: 44px;
+    font-weight: bold; 
+    width: 120px;
+    color: rgb(235, 120, 13);
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin-right: 8px;
+    background: black;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 80%);
+}
+    
+#linkedin{
+    padding-top:0px;
+    height: 55px;
+    width: 60px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+#github{
+    padding-top:0px;
+    height: 68px;
+    width: 75px;
+    cursor: pointer;
+}
+
+
+#origin{
+    padding-top:0px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+}
+
+#steam{
+    padding-top:0px;
+    padding-left: 10px;
+    height: 55px;
+    width: 55px;
+    cursor: pointer;
+}
+
+#email{
+    height: 55px;
+    width: 65px;
+    cursor: pointer;
+}
+
+
+
+
+
+    .tooltip {
+        position: relative;
+        display: inline-block;
+      }
+      
+      .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 160px;
+        background-color: black;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+      
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+      }
+      
+      .tooltip:hover .tooltiptext {
+        visibility: visible;
+      }
+
+.contacth1
+{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-size: 1.1rem;
+    color: black;
+    font-weight: bold; 
+
+}
+
+.emailid, .validation{
+    color: rgb(235, 120, 13);
+}
+
+#footer{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-size: 1rem;
+    color: black;
+    left:0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#resume_content{
+    margin-top: 60px;
+}
+
+.subheadings{
+    font-size: 1.5rem;
+    color: rgb(235, 120, 13);
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+}
+
+.school{
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+
+}
+
+.degree{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 0px;
+}
+
+.degree9{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 0px;
+    margin-left: 55px;
+    margin-bottom: 0px;}
+
+.minor{
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-bottom: 2px;
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+
+}
+
+.download{
+   
+        font-size: 1.5rem;
+        color: rgb(235, 120, 13);
+        font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+        font-weight: bold;
+        margin-left: 20px;
+        padding-bottom: 0px;
+        margin-bottom: 5px;
+    }
+
+.download a{
+        color: rgb(235, 120, 13);
+    }
+    .download a:visited{
+    color: rgb(235, 120, 13);
+}
+
+#ds{
+    height: 105px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#content .subheadings{
+    color:black;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.dsa{
+    display:grid;
+    grid-template-columns: 380px 1fr;
+}
+
+.mission{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    margin-top: 0px;
+}
+
+.degree1{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    color: rgb(235, 120, 13);
+
+}
+
+#py{
+    height: 155px;
+    width: 280px;
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+.degree2{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 35px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    color: rgb(235, 120, 13);
+
+}
+
+#du{
+    height: 155px;
+    width: 170px;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+
+#two{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: none;
+    height: 500px;
+}
+
+#one{
+    border: none;
+    height: 80%;
+    width: 90%;
+    margin:auto auto;
+    background: #e6e6e6;
+    border-radius: 35px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 80%);
+    text-align: center;
+
+
+
+}
+
+#three{
+    border: none;
+    height: 80%;
+    width: 90%;
+    margin:auto auto;
+    background: #e6e6e6;
+    border-radius: 35px;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 100%);
+    text-align: center;
+
+
+
+}
+
+#st{
+    width: 95%;
+    margin-top: 30px;
+    height: 52%;
+    margin-left: 03px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+
+}
+
+.school4{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    color: rgb(235, 120, 13);
+    text-decoration: underline;
+    cursor: pointer;
+
+
+  
+}
+
+#ds, #py, #du{
+    cursor: pointer;
+}
+
+.degree4{
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+#cd{
+    height: 52%;
+    width: 95%;
+    margin-top: 30px;
+    margin-left: 03px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+
+}
+
+.subheadings4{
+    font-size: 1.5rem;
+    color: rgb(235, 120, 13);
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+
+}
+
+.subheadings5{
+    font-size: 1.8rem;
+    color: rgb(235, 120, 13);
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+
+}
+
+#stt{
+    margin-top: 50px;
+}
+
+#st1, #st2, #st3, #st4, #st5, #st6, #st7{
+    margin-top: 25px;
+    height: 50%;
+    width: 60%;
+    margin-left:200px;
+}
+
+#st7{
+    margin-bottom: 120px;
+}
+
+#cd1, #cd2, #cd3, #cd4, #cd5{
+    margin-top: 25px;
+    height: 50%;
+    width: 80%;
+    margin-left:100px;
+}
+
+#cd5{
+    margin-bottom: 120px;
+}
+
+.subheadings7{
+    font-size: 1.2rem;
+    color: black;
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    padding-bottom: 0px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+
+#football{
+    height: 50%;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 300px;
+    border-radius: 20px;
+    
+}
+
+.subheadings8{
+    font-size: 1.2rem;
+    color: rgb(235, 120, 13);
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+    font-weight: bold;
+    margin-left: 50px;
+    padding-bottom: 0px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+
+}
+
+.minor4{
+    margin-top: 0px;
+    margin-left: 60px;
+    margin-bottom: 2px;
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+
+}
+
+.minor5{
+    margin-top: 0px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    font-family: "Open Sans", Helvetica, Arial, "Nimbus Sans L", sans-serif;
+
+}
