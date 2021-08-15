@@ -1,0 +1,62 @@
+html{
+    background-color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 0 2px 6px rgb(100 100 100 / 50%);
+    background-color: white;
+    display: grid;
+    grid-template-rows: 10% 90%;
+}
+
+#header{
+    text-align: center;
+    padding-top: 2%;
+    
+    font-size: 200%;
+    
+}
+
+.location{
+    font-size: 120%;
+    /* color: rgb(235, 120, 13); */
+    margin-left: 2%;
+    margin-bottom: .5%;
+}
+
+.roles{
+    margin-left: 4%;
+    color: blue;
+    text-decoration: underline;
+}
+
+.location b{
+    font-weight: 550;
+}
+
+#jobs{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#one{
+    margin-left: 5%;
+}
+
+.ci{
+    margin-top: 0;
+    margin-left: 4%;
+    padding-top: 0;
+}
+
+#two .roles{
+    margin-left: 0;
+
+}
