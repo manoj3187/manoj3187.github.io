@@ -47,7 +47,13 @@ html{
 }
 
 #one{
-    margin-left: 5%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+#two{
+    margin-top: 5%;
+
 }
 
 .ci{
@@ -59,4 +65,8 @@ html{
 #two .roles{
     margin-left: 0;
 
+}
+
+a:visited{
+    color: blue;
 }
