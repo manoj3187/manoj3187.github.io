@@ -5,7 +5,6 @@ function storeResponse() {
     var value = document.getElementById('response').value;
     data.push(value);
     localStorage.setItem('responses', JSON.stringify(data));
-    window.location.href = "./responses.html";
 }
 
 function readResponse() {
